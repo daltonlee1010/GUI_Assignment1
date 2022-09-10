@@ -1,1 +1,1 @@
-# GUI_Assignment1
+Everything is in the gh-pages branch
