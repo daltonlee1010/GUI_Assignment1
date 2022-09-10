@@ -100,7 +100,7 @@ parameters set while others also need to be centered.
     margin-left: auto;
     margin-right: auto;
     width:40%;
-    height:40%;
+    height:100%;
 }
 .Ronaldo_GIF {
     padding: 20px;
@@ -108,7 +108,7 @@ parameters set while others also need to be centered.
     margin-left: auto;
     margin-right: auto;
     width:60%;
-    height:60%;
+    height:100%;
 }
 .Suarez_GIF {
     padding: 20px;
@@ -116,7 +116,7 @@ parameters set while others also need to be centered.
     margin-left: auto;
     margin-right: auto;
     width:70%;
-    height:70%;
+    height:100%;
 }
 .Neymar_GIF {
     padding: 20px;
@@ -124,7 +124,7 @@ parameters set while others also need to be centered.
     margin-left: auto;
     margin-right: auto;
     width:60%;
-    height:60%;
+    height:100%;
 }
 .Bale_GIF {
     padding: 20px;
@@ -132,7 +132,7 @@ parameters set while others also need to be centered.
     margin-left: auto;
     margin-right: auto;
     width:80%;
-    height:80%;
+    height:100%;
 }
 .Ibrahimovic_GIF {
     padding: 20px;
@@ -140,7 +140,7 @@ parameters set while others also need to be centered.
     margin-left: auto;
     margin-right: auto;
     width:70%;
-    height:70%;
+    height:100%;
 }
 
 /*
