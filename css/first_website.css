@@ -179,3 +179,13 @@ table.ClipTable tr:nth-child(even) {
     border-radius: 30px;
     background-color: #6c95e2;
 }
+
+/*
+Added in real quick to style GitHub Ribbon
+*/
+.GitHub_Ribbon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 0;
+}
